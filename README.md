@@ -2,5 +2,7 @@
 Python project that uses web scraping and The Natural Language Toolkit (NLTK) library to determine a list of valid five letter words using the most common letters found in past wordle solutions. These words were then analysed for audience familiarity using Datayze.com to determine how well known/difficult they are.
 
 NLTK package used: https://www.nltk.org/api/nltk.corpus.html
-Word Analyser: https://datayze.com/word-analyzer
+<br>
+Word Analyser: https://datayze.com/word-analyze
+<br>
 Past wordle solutions: https://stuckonwordle.com/all-wordle-answers.html
